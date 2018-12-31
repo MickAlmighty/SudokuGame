@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\dao\Dao.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\dao\DbSudokuBoardDao.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\dao\FileSudokuBoardDao.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\dao\SudokuBoardDaoFactory.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\database\Board.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\database\DbMain.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\database\DbManager.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\database\Field.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\exceptions\SudokuReadException.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\exceptions\SudokuWriteException.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\model\MySecondSudokuSolver.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\model\SudokuBoard.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\model\SudokuBox.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\model\SudokuColumn.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\model\SudokuContener.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\model\SudokuField.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\model\SudokuRow.java">
+</file>
+<file name="C:\Users\Mike\Desktop\Michal_i_MatejLtd\trunk\SudokuFX\Model\src\main\java\model\SudokuSolver.java">
+</file>
+</checkstyle>
